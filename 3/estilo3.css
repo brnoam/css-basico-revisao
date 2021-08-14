@@ -1,0 +1,31 @@
+.d{
+    background-color: red; height: 205px; color: red; border-style: solid; border-color: green; border-width: 10px;
+}
+
+.d1{
+    background-color: white; height: 205px; border-style: solid; border-color: black; border-width: 1px; color: black;
+}
+
+.d2{
+    background-color: rgb(206, 94, 206); height: 205px; border-style: solid; border-color: black; border-width: 1px; 
+}
+
+
+#l1{
+    color: green; text-decoration: underline black;
+}
+
+#l2{ 
+    color: black; text-decoration: underline;
+}
+
+#l3{ 
+    color: yellow; text-decoration: underline black;
+}
+
+
+
+
+.d3 {
+    background-color: rgb(248, 161, 0); height: 205px; border-style: solid; border-color: maroon; border-width: 10px;  font-size: 50px;
+ }

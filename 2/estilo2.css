@@ -1,0 +1,33 @@
+.ar2 {
+    color: rgb(29, 229, 255); background-color: seagreen;
+}
+
+.ar3{
+    color: red ; background-color: violet;
+}
+
+.ar4{
+    color: royalblue; background-color: turquoise;
+} 
+
+#tb2{
+    background-color: yellow; font-weight: bold;
+}
+
+#tb3{
+    background-color: orange; font-weight: bold;
+}
+
+
+#tb4{
+    background-color: paleturquoise; font-weight: bold;
+} 
+
+h1{
+    text-align: right;
+}
+
+table{ 
+    margin-left: 800px;
+    
+}
